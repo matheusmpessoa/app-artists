@@ -1,0 +1,40 @@
+<ion-view>
+    <ion-header-bar class="bar-positive">
+        <h2 class="title">More Info</h2>
+    </ion-header-bar>
+
+    <ion-content>
+        <ion-list class="list-inset">
+            <ion-item class="item-text-wrap" ng-repeat="item in artists | filter: { shortname: whichartist }">
+                <div style="text-align:center;">
+                    <img ng-src="img/{{item.shortname}}_tn.jpg" alt="{{ item.name }} Photo">
+                    <h2 style="padding-bottom:5px;">{{item.name}}</h2>
+                </div>
+                <div class="list card">
+                    <div class="item item-divider">
+                        Informações Gerais
+                    </div>
+                    <a class="item item-icon-left">
+                        <i class="icon ion-person"></i>
+                        <p>{{item.name}}</p>
+                    </a>
+                    <a class="item item-icon-left">
+                        <i class="icon ion-person"></i>
+                        <p>{{item.reknown}}</p>
+                    </a>
+
+                    <a class="item item-icon-left">
+                        <i class="icon ion-wifi"></i>
+                        <p>{{item.location}}</p>
+                    </a>
+
+                    <a class="item item-icon-left">
+                        <i class="icon ion-music-note"></i>
+                        <p>{{item.bio}}</p>
+                    </a>
+
+                </div>
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>
