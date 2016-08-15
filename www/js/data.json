@@ -101,7 +101,7 @@
   ],
     "artists": [
         {
-            "shortname": "Barot_Bellingham",
+            "shortname": "Dave_Grohl",
             "name": "Dave Grohl",
             "birthday": "14/01/1969",
             "location": "Warren, Ohio, Estados Unidos",
@@ -111,7 +111,7 @@
             "musicalOcupation": "Músico, compositor, multi-instrumentista.",
             "biograph": "David Eric Grohl é um músico e compositor norte-americano. Atualmente é integrante da banda Foo Fighters."
     }, {
-            "shortname": "Jonathan_Ferrar",
+            "shortname": "Bono",
             "name": "Bono",
             "birthday": "10/05/1960",
             "location": "Dublin, Leinster, Irlanda",
@@ -121,75 +121,75 @@
             "musicalOcupation": "Músico, cantor, compositor, ativista, filantropo.",
             "biograph": "Paul David Hewson, conhecido por seu nome artístico Bono é um cantor e músico irlandês vocalista principal da banda irlandesa de rock U2."
     }, {
-            "shortname": "Hillary_Goldwynn",
+            "shortname": "Lars_Ulrich",
             "name": "Lars Ulrich",
             "birthday": "26/12/1963",
             "location": "Gentofte, Dinamarca",
             "musicalGroup": "Metallica",
             "musicalInstruments": "Bateria, percussão, violão e guitarra.",
-            "musicalGenre": "Nu metal, Metal alternativo, Rock alternativo, Rock experimental.",
-            "musicalOcupation": "Vocalista, ator.",
+            "musicalGenre": "Thrash metal, heavy metal, speed metal, hard rock.",
+            "musicalOcupation": "Músico, compositor, produtor, ator, empresário.",
             "biograph": "Lars Ulrich, é um empresário, ator e músico dinamarquês. Alcançou fama mundial por ser o baterista e o principal fundador da banda Metallica."
     }, {
-            "shortname": "Hassum_Harrod",
+            "shortname": "Chester_Bennington",
             "name": "Chester Bennington",
             "birthday": "20/03/1976",
             "location": "Phoenix, Arizona, Estados Unidos",
             "musicalGroup": "Linkin Park",
             "musicalInstruments": "Vocal, piano, guitarra.",
-            "musicalGenre": "Grunge, Rock alternativo, post-grunge, hard rock, heavy metal.",
+            "musicalGenre": "Nu metal, Metal alternativo, Rock alternativo, Rock experimental",
             "musicalOcupation": "Músico, compositor, multi-instrumentista.",
             "biograph": "Chester Charles Bennington, é cantor, compositor, ator e atual vocalista da banda americana Linkin Park."
     }, {
-            "shortname": "Jennifer_Jerome",
-            "name": "Dave Grohl",
-            "birthday": "14/01/1969",
-            "location": "Warren, Ohio, Estados Unidos",
-            "musicalGroup": "Foo Fighters",
-            "musicalInstruments": "Bateria, vocal, guitarra, baixo, teclado, talk box.",
-            "musicalGenre": "Grunge, Rock alternativo, post-grunge, hard rock, heavy metal.",
-            "musicalOcupation": "Músico, compositor, multi-instrumentista.",
-            "biograph": "David Eric Grohl é um músico e compositor norte-americano. Atualmente é integrante da banda Foo Fighters."
+            "shortname": "Anthony_Kiedis",
+            "name": "Anthony Kiedis",
+            "birthday": "01/11/1962",
+            "location": "Grand Rapids, Michigan, Estados Unidos",
+            "musicalGroup": "Red Hot Chili Peppers",
+            "musicalInstruments": "Vocal.",
+            "musicalGenre": "Funk rock, rock alternativo, punk rock, funk metal",
+            "musicalOcupation": "Músico, compositor, ator.",
+            "biograph": "Anthony Kiedis é cantor e ator americano, é o vocalista, letrista e fundador da banda Red Hot Chili Peppers."
     }, {
-            "shortname": "LaVonne_LaRue",
-            "name": "Dave Grohl",
-            "birthday": "14/01/1969",
-            "location": "Warren, Ohio, Estados Unidos",
-            "musicalGroup": "Foo Fighters",
+            "shortname": "Dexter_Holland",
+            "name": "Dexter Holland",
+            "birthday": "29/12/1965",
+            "location": "Garden Grove, Califórnia, Estados Unidos",
+            "musicalGroup": "The Offspring",
             "musicalInstruments": "Bateria, vocal, guitarra, baixo, teclado, talk box.",
-            "musicalGenre": "Grunge, Rock alternativo, post-grunge, hard rock, heavy metal.",
-            "musicalOcupation": "Músico, compositor, multi-instrumentista.",
-            "biograph": "David Eric Grohl é um músico e compositor norte-americano. Atualmente é integrante da banda Foo Fighters."
+            "musicalGenre": "Punk rock, Pop punk, Rock alternativo, Skate punk, Hardcore punk.",
+            "musicalOcupation": "Cantor, Guitarrista, Compositor, Empresário.",
+            "biograph": "Dexter Holland, é músico, empresário e biólogo estadunidense. Holland é membro co-fundador da banda californiana The Offspring."
     }, {
-            "shortname": "Constance_Smith",
-            "name": "Dave Grohl",
-            "birthday": "14/01/1969",
-            "location": "Warren, Ohio, Estados Unidos",
-            "musicalGroup": "Foo Fighters",
-            "musicalInstruments": "Bateria, vocal, guitarra, baixo, teclado, talk box.",
-            "musicalGenre": "Grunge, Rock alternativo, post-grunge, hard rock, heavy metal.",
+            "shortname": "Eddie_Vedder",
+            "name": "Eddie Vedder",
+            "birthday": "23/12/1964",
+            "location": "Evanston, Illinois, Estados Unidos",
+            "musicalGroup": "Pearl Jam",
+            "musicalInstruments": "Vocal, violão, guitarra.",
+            "musicalGenre": "Rock, Rock Alternativo, Grunge, Folk.",
             "musicalOcupation": "Músico, compositor, multi-instrumentista.",
-            "biograph": "David Eric Grohl é um músico e compositor norte-americano. Atualmente é integrante da banda Foo Fighters."
+            "biograph": "Eddie Vedder, é cantor, compositor e músico americano, mais conhecido por ser o vocalista e um dos guitarristas da banda Pearl Jam."
     }, {
-            "shortname": "LaVonne_LaRue",
-            "name": "Dave Grohl",
-            "birthday": "14/01/1969",
-            "location": "Warren, Ohio, Estados Unidos",
-            "musicalGroup": "Foo Fighters",
-            "musicalInstruments": "Bateria, vocal, guitarra, baixo, teclado, talk box.",
-            "musicalGenre": "Grunge, Rock alternativo, post-grunge, hard rock, heavy metal.",
-            "musicalOcupation": "Músico, compositor, multi-instrumentista.",
-            "biograph": "David Eric Grohl é um músico e compositor norte-americano. Atualmente é integrante da banda Foo Fighters."
+            "shortname": "Angus_Young",
+            "name": "Angus Young",
+            "birthday": "31/03/1955",
+            "location": "Escócia / Austrália (naturalizado)",
+            "musicalGroup": "AC/DC",
+            "musicalInstruments": "Guitarra, violão.",
+            "musicalGenre": "Hard rock, Heavy metal.",
+            "musicalOcupation": "Músico, multi-instrumentista.",
+            "biograph": "Angus McKinnon Young, é um guitarrista e compositor, conhecido por ser guitarrista da banda de Hard rock AC/DC."
     }, {
-            "shortname": "Xhou_Ta",
-            "name": "Dave Grohl",
-            "birthday": "14/01/1969",
-            "location": "Warren, Ohio, Estados Unidos",
-            "musicalGroup": "Foo Fighters",
-            "musicalInstruments": "Bateria, vocal, guitarra, baixo, teclado, talk box.",
-            "musicalGenre": "Grunge, Rock alternativo, post-grunge, hard rock, heavy metal.",
-            "musicalOcupation": "Músico, compositor, multi-instrumentista.",
-            "biograph": "David Eric Grohl é um músico e compositor norte-americano. Atualmente é integrante da banda Foo Fighters."
+            "shortname": "Ozzy_Osbourne",
+            "name": "Ozzy Osbourne",
+            "birthday": "03/12/1948",
+            "location": "Aston, Inglaterra, Reino Unido",
+            "musicalGroup": "Black Sabbath",
+            "musicalInstruments": "Vocal, harmônica.",
+            "musicalGenre": "Heavy metal, doom metal, hard rock, blues rock.",
+            "musicalOcupation": "Cantor, compositor.",
+            "biograph": "John Michael Osbourne, conhecido como Ozzy Osbourne, é músico, compositor e vocalista britânico da banda britânica Black Sabbath."
     }
   ]
 }

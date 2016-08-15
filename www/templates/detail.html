@@ -8,7 +8,7 @@
         <ion-list class="list-inset">
             <ion-item class="item-text-wrap" ng-repeat="item in artists | filter: { shortname: whichartist }">
                 <div style="text-align:center;">
-                    <img ng-src="img/{{item.shortname}}_tn.jpg" alt="{{ item.name }} Photo">
+                    <img ng-src="img/{{item.shortname}}.jpg" alt="{{ item.name }} Photo">
                     <h2 style="padding-bottom:5px;">{{item.name}}</h2>
                 </div>
                 <div class="list card">
@@ -21,12 +21,12 @@
                         <p>{{item.name}}</p>
                     </a>
                     <a class="item item-icon-left">
-                        <i class="icon ion-wifi"></i>
+                        <i class="icon ion-android-calendar"></i>
                         <h2>Data de Nasc.</h2>
                         <p>{{item.birthday}}</p>
                     </a>
                     <a class="item item-icon-left">
-                        <i class="icon ion-wifi"></i>
+                        <i class="icon ion-location"></i>
                         <h2>Local de Nasc.</h2>
                         <p>{{item.location}}</p>
                     </a>
@@ -35,22 +35,22 @@
                         Informações Profissionais
                     </div>
                     <a class="item item-icon-left">
-                        <i class="icon ion-person"></i>
+                        <i class="icon ion-volume-high"></i>
                         <h2>Banda</h2>
                         <p>{{item.musicalGroup}}</p>
                     </a>
                     <a class="item item-icon-left">
-                        <i class="icon ion-person"></i>
+                        <i class="icon ion-mic-c"></i>
                         <h2>Instrumentos</h2>
                         <p>{{item.musicalInstruments}}</p>
                     </a>
                     <a class="item item-icon-left">
-                        <i class="icon ion-person"></i>
+                        <i class="icon ion-music-note"></i>
                         <h2>Gênero Musical</h2>
                         <p>{{item.musicalGenre}}</p>
                     </a>
                     <a class="item item-icon-left">
-                        <i class="icon ion-person"></i>
+                        <i class="icon ion-quote"></i>
                         <h2>Ocupação Musical</h2>
                         <p>{{item.musicalOcupation}}</p>
                     </a>

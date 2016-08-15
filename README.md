@@ -1,8 +1,18 @@
 # app-artists
 Aplicativo para informação de artistas.
 
-Para testar a aplicação, digite:
+### Versão
+1.0.0
 
-```js
-ionic serve
-```
+### Linguagens utilizadas
+* HTML5
+* CSS3
+* JavaScript
+
+### Frameworks utilizados
+* Ionic
+* AngularJS
+
+License
+----
+MIT
