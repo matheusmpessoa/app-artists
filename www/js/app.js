@@ -18,7 +18,6 @@ angular.module('starter', ['ionic'])
     });
 })
 
-
 .config(function ($stateProvider, $urlRouterProvider) {
     $stateProvider
         .state('tabs', {
@@ -56,41 +55,21 @@ angular.module('starter', ['ionic'])
         }
     })
 
-    .state('tabs.calendar', {
-        url: '/calendar',
+    .state('tabs.about', {
+        url: '/about',
         views: {
-            'calendar-tab': {
-                templateUrl: 'templates/calendar.html',
-                controller: 'CalendarController'
+            'about-tab': {
+                templateUrl: 'templates/about.html',
+                controller: 'AboutController'
             }
         }
     })
 
-
     $urlRouterProvider.otherwise('/tab/home');
 })
 
-.controller('CalendarController', ['$scope', '$http', '$state',
+.controller('AboutController', ['$scope', '$http', '$state',
     function ($scope, $http, $state) {
-        $http.get('js/data.json').success(function (data) {
-            $scope.calendar = data.calendar;
-
-            $scope.onItemDelete = function (dayIndex, item) {
-                $scope.calendar[dayIndex].schedule.splice($scope.calendar[dayIndex].schedule.indexOf(item), 1);
-            }
-
-            $scope.doRefresh = function () {
-                $http.get('js/data.json').success(function (data) {
-                    $scope.calendar = data.calendar;
-                    $scope.$broadcast('scroll.refreshComplete');
-                });
-            }
-
-            $scope.toggleStar = function (item) {
-                item.star = !item.star;
-            }
-
-        });
 }])
 
 .controller('ListController', ['$scope', '$http', '$state',

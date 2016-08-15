@@ -1,5 +1,5 @@
-# app-artists
-Aplicativo para informação de artistas.
+# Biografia Musicos
+Aplicativo para informação de músicos.
 
 ### Versão
 1.0.0

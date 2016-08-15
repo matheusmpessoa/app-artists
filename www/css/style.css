@@ -1,1 +1,10 @@
 /* Empty. Add your own CSS if you like */
+
+.scroll-content {
+    background-image: url(../img/skyline.jpg);
+    align-content: center;
+}
+
+.titleHome {
+    text-align: center;
+}
