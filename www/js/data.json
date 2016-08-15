@@ -101,59 +101,95 @@
   ],
     "artists": [
         {
-            "name": "Dave Grohl",
-            "reknown": "Foo Fighters",
             "shortname": "Barot_Bellingham",
-            "location": "American",
-            "bio": "David Eric Grohl (Warren, 14 de janeiro de 1969) é um músico e compositor norte-americano. Ex-baterista das bandas Nirvana, Queens of the Stone Age e Them Crooked Vultures. Também é o fundador, vocalista e guitarrista da banda Foo Fighters."
-    }, {
             "name": "Dave Grohl",
-            "reknown": "Foo Fighters",
+            "birthday": "14/01/1969",
+            "location": "Warren, Ohio, Estados Unidos",
+            "musicalGroup": "Foo Fighters",
+            "musicalInstruments": "Bateria, vocal, guitarra, baixo, teclado, talk box.",
+            "musicalGenre": "Grunge, Rock alternativo, post-grunge, hard rock, heavy metal.",
+            "musicalOcupation": "Músico, compositor, multi-instrumentista.",
+            "biograph": "David Eric Grohl é um músico e compositor norte-americano. Atualmente é integrante da banda Foo Fighters."
+    }, {
             "shortname": "Jonathan_Ferrar",
-            "location": "American",
-            "bio": "David Eric Grohl (Warren, 14 de janeiro de 1969) é um músico e compositor norte-americano. Ex-baterista das bandas Nirvana, Queens of the Stone Age e Them Crooked Vultures. Também é o fundador, vocalista e guitarrista da banda Foo Fighters."
+            "name": "Bono",
+            "birthday": "10/05/1960",
+            "location": "Dublin, Leinster, Irlanda",
+            "musicalGroup": "U2",
+            "musicalInstruments": "Vocal, violão, gaita, guitarra.",
+            "musicalGenre": "Rock, pós-punk, rock alternativo.",
+            "musicalOcupation": "Músico, cantor, compositor, ativista, filantropo.",
+            "biograph": "Paul David Hewson, conhecido por seu nome artístico Bono é um cantor e músico irlandês vocalista principal da banda irlandesa de rock U2."
     }, {
-            "name": "Dave Grohl",
-            "reknown": "Foo Fighters",
             "shortname": "Hillary_Goldwynn",
-            "location": "American",
-            "bio": "David Eric Grohl (Warren, 14 de janeiro de 1969) é um músico e compositor norte-americano. Ex-baterista das bandas Nirvana, Queens of the Stone Age e Them Crooked Vultures. Também é o fundador, vocalista e guitarrista da banda Foo Fighters."
+            "name": "Lars Ulrich",
+            "birthday": "26/12/1963",
+            "location": "Gentofte, Dinamarca",
+            "musicalGroup": "Metallica",
+            "musicalInstruments": "Bateria, percussão, violão e guitarra.",
+            "musicalGenre": "Nu metal, Metal alternativo, Rock alternativo, Rock experimental.",
+            "musicalOcupation": "Vocalista, ator.",
+            "biograph": "Lars Ulrich, é um empresário, ator e músico dinamarquês. Alcançou fama mundial por ser o baterista e o principal fundador da banda Metallica."
     }, {
-            "name": "Dave Grohl",
-            "reknown": "Foo Fighters",
             "shortname": "Hassum_Harrod",
-            "location": "American",
-            "bio": "David Eric Grohl (Warren, 14 de janeiro de 1969) é um músico e compositor norte-americano. Ex-baterista das bandas Nirvana, Queens of the Stone Age e Them Crooked Vultures. Também é o fundador, vocalista e guitarrista da banda Foo Fighters."
+            "name": "Chester Bennington",
+            "birthday": "20/03/1976",
+            "location": "Phoenix, Arizona, Estados Unidos",
+            "musicalGroup": "Linkin Park",
+            "musicalInstruments": "Vocal, piano, guitarra.",
+            "musicalGenre": "Grunge, Rock alternativo, post-grunge, hard rock, heavy metal.",
+            "musicalOcupation": "Músico, compositor, multi-instrumentista.",
+            "biograph": "Chester Charles Bennington, é cantor, compositor, ator e atual vocalista da banda americana Linkin Park."
     }, {
-            "name": "Dave Grohl",
-            "reknown": "Foo Fighters",
             "shortname": "Jennifer_Jerome",
-            "location": "American",
-            "bio": "David Eric Grohl (Warren, 14 de janeiro de 1969) é um músico e compositor norte-americano. Ex-baterista das bandas Nirvana, Queens of the Stone Age e Them Crooked Vultures. Também é o fundador, vocalista e guitarrista da banda Foo Fighters."
-    }, {
             "name": "Dave Grohl",
-            "reknown": "Foo Fighters",
+            "birthday": "14/01/1969",
+            "location": "Warren, Ohio, Estados Unidos",
+            "musicalGroup": "Foo Fighters",
+            "musicalInstruments": "Bateria, vocal, guitarra, baixo, teclado, talk box.",
+            "musicalGenre": "Grunge, Rock alternativo, post-grunge, hard rock, heavy metal.",
+            "musicalOcupation": "Músico, compositor, multi-instrumentista.",
+            "biograph": "David Eric Grohl é um músico e compositor norte-americano. Atualmente é integrante da banda Foo Fighters."
+    }, {
             "shortname": "LaVonne_LaRue",
-            "location": "American",
-            "bio": "David Eric Grohl (Warren, 14 de janeiro de 1969) é um músico e compositor norte-americano. Ex-baterista das bandas Nirvana, Queens of the Stone Age e Them Crooked Vultures. Também é o fundador, vocalista e guitarrista da banda Foo Fighters."
-    }, {
             "name": "Dave Grohl",
-            "reknown": "Foo Fighters",
+            "birthday": "14/01/1969",
+            "location": "Warren, Ohio, Estados Unidos",
+            "musicalGroup": "Foo Fighters",
+            "musicalInstruments": "Bateria, vocal, guitarra, baixo, teclado, talk box.",
+            "musicalGenre": "Grunge, Rock alternativo, post-grunge, hard rock, heavy metal.",
+            "musicalOcupation": "Músico, compositor, multi-instrumentista.",
+            "biograph": "David Eric Grohl é um músico e compositor norte-americano. Atualmente é integrante da banda Foo Fighters."
+    }, {
             "shortname": "Constance_Smith",
-            "location": "American",
-            "bio": "David Eric Grohl (Warren, 14 de janeiro de 1969) é um músico e compositor norte-americano. Ex-baterista das bandas Nirvana, Queens of the Stone Age e Them Crooked Vultures. Também é o fundador, vocalista e guitarrista da banda Foo Fighters."
-    }, {
             "name": "Dave Grohl",
-            "reknown": "Foo Fighters",
+            "birthday": "14/01/1969",
+            "location": "Warren, Ohio, Estados Unidos",
+            "musicalGroup": "Foo Fighters",
+            "musicalInstruments": "Bateria, vocal, guitarra, baixo, teclado, talk box.",
+            "musicalGenre": "Grunge, Rock alternativo, post-grunge, hard rock, heavy metal.",
+            "musicalOcupation": "Músico, compositor, multi-instrumentista.",
+            "biograph": "David Eric Grohl é um músico e compositor norte-americano. Atualmente é integrante da banda Foo Fighters."
+    }, {
             "shortname": "LaVonne_LaRue",
-            "location": "American",
-            "bio": "David Eric Grohl (Warren, 14 de janeiro de 1969) é um músico e compositor norte-americano. Ex-baterista das bandas Nirvana, Queens of the Stone Age e Them Crooked Vultures. Também é o fundador, vocalista e guitarrista da banda Foo Fighters."
-    }, {
             "name": "Dave Grohl",
-            "reknown": "Foo Fighters",
+            "birthday": "14/01/1969",
+            "location": "Warren, Ohio, Estados Unidos",
+            "musicalGroup": "Foo Fighters",
+            "musicalInstruments": "Bateria, vocal, guitarra, baixo, teclado, talk box.",
+            "musicalGenre": "Grunge, Rock alternativo, post-grunge, hard rock, heavy metal.",
+            "musicalOcupation": "Músico, compositor, multi-instrumentista.",
+            "biograph": "David Eric Grohl é um músico e compositor norte-americano. Atualmente é integrante da banda Foo Fighters."
+    }, {
             "shortname": "Xhou_Ta",
-            "location": "American",
-            "bio": "David Eric Grohl (Warren, 14 de janeiro de 1969) é um músico e compositor norte-americano. Ex-baterista das bandas Nirvana, Queens of the Stone Age e Them Crooked Vultures. Também é o fundador, vocalista e guitarrista da banda Foo Fighters."
+            "name": "Dave Grohl",
+            "birthday": "14/01/1969",
+            "location": "Warren, Ohio, Estados Unidos",
+            "musicalGroup": "Foo Fighters",
+            "musicalInstruments": "Bateria, vocal, guitarra, baixo, teclado, talk box.",
+            "musicalGenre": "Grunge, Rock alternativo, post-grunge, hard rock, heavy metal.",
+            "musicalOcupation": "Músico, compositor, multi-instrumentista.",
+            "biograph": "David Eric Grohl é um músico e compositor norte-americano. Atualmente é integrante da banda Foo Fighters."
     }
   ]
 }

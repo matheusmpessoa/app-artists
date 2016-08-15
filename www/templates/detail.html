@@ -1,4 +1,5 @@
-<ion-view>
+<ion-view view-title="Artists">
+
     <ion-header-bar class="bar-positive">
         <h2 class="title">More Info</h2>
     </ion-header-bar>
@@ -12,29 +13,50 @@
                 </div>
                 <div class="list card">
                     <div class="item item-divider">
-                        Informações Gerais
+                        Informações Pessoais
                     </div>
                     <a class="item item-icon-left">
                         <i class="icon ion-person"></i>
+                        <h2>Nome</h2>
                         <p>{{item.name}}</p>
                     </a>
                     <a class="item item-icon-left">
-                        <i class="icon ion-person"></i>
-                        <p>{{item.reknown}}</p>
+                        <i class="icon ion-wifi"></i>
+                        <h2>Data de Nasc.</h2>
+                        <p>{{item.birthday}}</p>
                     </a>
-
                     <a class="item item-icon-left">
                         <i class="icon ion-wifi"></i>
+                        <h2>Local de Nasc.</h2>
                         <p>{{item.location}}</p>
                     </a>
 
+                    <div class="item item-divider">
+                        Informações Profissionais
+                    </div>
                     <a class="item item-icon-left">
-                        <i class="icon ion-music-note"></i>
-                        <p>{{item.bio}}</p>
+                        <i class="icon ion-person"></i>
+                        <h2>Banda</h2>
+                        <p>{{item.musicalGroup}}</p>
                     </a>
-
+                    <a class="item item-icon-left">
+                        <i class="icon ion-person"></i>
+                        <h2>Instrumentos</h2>
+                        <p>{{item.musicalInstruments}}</p>
+                    </a>
+                    <a class="item item-icon-left">
+                        <i class="icon ion-person"></i>
+                        <h2>Gênero Musical</h2>
+                        <p>{{item.musicalGenre}}</p>
+                    </a>
+                    <a class="item item-icon-left">
+                        <i class="icon ion-person"></i>
+                        <h2>Ocupação Musical</h2>
+                        <p>{{item.musicalOcupation}}</p>
+                    </a>
                 </div>
             </ion-item>
         </ion-list>
     </ion-content>
+
 </ion-view>
